@@ -16,6 +16,7 @@ spec:
       - ts
     singular: transportserver
   scope: Namespaced
+  preserveUnknownFields: false
   versions:
     -
       name: v1
